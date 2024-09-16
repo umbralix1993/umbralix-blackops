@@ -12,6 +12,7 @@ Umbralix BlackOps es una herramienta poderosa para la auditoría de redes y la s
 
 ### Requisitos:
 Asegúrate de tener instaladas las siguientes herramientas:
+pyfiglet (con pip)
 - `nmap`
 - `hydra`
 - `netdiscover`
