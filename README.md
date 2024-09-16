@@ -21,4 +21,4 @@ Asegúrate de tener instaladas las siguientes herramientas:
 ### Instalación en sistemas Debian/Ubuntu:
 ```bash
 sudo apt-get update
-sudo apt-get install nmap hydra netdiscover aircrack-ng metasploit-framework
+sudo apt-get install nmap hydra netdiscover aircrack-ng && sudo snap install metasploit-framework
